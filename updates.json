@@ -1,0 +1,278 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "message": {
+        "message_id": 46,
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "date": 1518880267,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "hello bot"
+      },
+      "update_id": 330416139
+    },
+    {
+      "message": {
+        "message_id": 47,
+        "date": 1518880421,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "https://suhas.org",
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "length": 17,
+            "type": "url"
+          }
+        ]
+      },
+      "update_id": 330416140
+    },
+    {
+      "message": {
+        "message_id": 48,
+        "date": 1518880435,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "https://suhas.org",
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "length": 17,
+            "type": "url"
+          }
+        ]
+      },
+      "update_id": 330416141
+    },
+    {
+      "message": {
+        "message_id": 50,
+        "date": 1518880810,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "https://suhas.org",
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "length": 17,
+            "type": "url"
+          }
+        ]
+      },
+      "update_id": 330416142
+    },
+    {
+      "message": {
+        "message_id": 52,
+        "date": 1518880866,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "https://getbootstrap.com",
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "length": 24,
+            "type": "url"
+          }
+        ]
+      },
+      "update_id": 330416143
+    },
+    {
+      "message": {
+        "message_id": 54,
+        "date": 1518881425,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "https://suhas.org",
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "length": 17,
+            "type": "url"
+          }
+        ]
+      },
+      "update_id": 330416144
+    },
+    {
+      "message": {
+        "message_id": 57,
+        "date": 1518881515,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "https://studio.code.org",
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "length": 23,
+            "type": "url"
+          }
+        ]
+      },
+      "update_id": 330416145
+    },
+    {
+      "message": {
+        "message_id": 59,
+        "date": 1518881588,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "https://www.google.com.ua",
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "length": 25,
+            "type": "url"
+          }
+        ]
+      },
+      "update_id": 330416146
+    },
+    {
+      "message": {
+        "message_id": 61,
+        "date": 1518881606,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "https://www.zharenkov.ru",
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "length": 24,
+            "type": "url"
+          }
+        ]
+      },
+      "update_id": 330416147
+    },
+    {
+      "message": {
+        "message_id": 63,
+        "date": 1518881640,
+        "from": {
+          "language_code": "en-US",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "is_bot": false,
+          "first_name": "Volodymyr"
+        },
+        "text": "https://djbook.ru",
+        "chat": {
+          "type": "private",
+          "last_name": "Struhanets",
+          "id": 326092086,
+          "first_name": "Volodymyr"
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "length": 17,
+            "type": "url"
+          }
+        ]
+      },
+      "update_id": 330416148
+    }
+  ]
+}
